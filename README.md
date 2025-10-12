@@ -1,4 +1,4 @@
-Early UI Test.py - pretty basic python script for creating a UI for the Cardputer 1.1
+Early UI Test.py - pretty basic python script for creating a UI for the Cardputer 1.1. Still includes keypress integer values on the screen.
 
 UI Test.py - python script creating a dummy user interface for Cardputer 1.1
 
