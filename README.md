@@ -1,4 +1,4 @@
-The scripts in this repository are prototypes and experiments using the M5Stack controllers.
+The scripts in this repository are prototypes and experiments using the M5Stack controllers. The expectation is that these will drop into the python viewport of UIFlow 2.0. 
 
 Cardputer 1.1
 -------------
