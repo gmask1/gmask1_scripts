@@ -8,6 +8,10 @@ Cardputer 1.1
 - Cardputer 1_1 Text UI Test.py - python script creating a text based user interface for Cardputer 1.1
 - Cardputer 1_1 Weather Lookup Test.py - python script for polling wttr.in for current weather, then displaying it in a label on the Cardputer 1.1 screen. Will need to be edited for your wifi id and pwd, and change the location in the url.
 
+**Cardputer ADV**
+-------------
+- Cardputer ADV Sensor Detector (includes via PaHUB).py - polls the grove connection on the Cardputer ADV, then uses the I2C address and a lookup table to try and determine which sensor was connected. Will also work with a PaHUB and sensors connected to that.
+
 **CoreS3**
 -------------
 - CoreS3 Dashboard CO2L ENVPRO UNIT MQ PAHUB.py - CoreS3 lv tabview dashboard connecting Port A to PaHUB to then connect CO2L, Unit MQ, ENV Pro Sensors. Configure the order of sensors connecting to PaHUB in the globals below the '# PaHub channels (0..5). Adjust to your wiring.' comment.
