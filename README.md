@@ -1,4 +1,11 @@
-The scripts in this repository are prototypes and experiments using the M5Stack controllers. The expectation is that these will drop into the python viewport of UIFlow 2.0. 
+The scripts in this repository are things that I've worked on that interest me. 
+
+**Scripts to assist with Bookbinding**
+-------------
+- booklet_signatures_enhanced.py - takes a pdf and creates signatures with the correct arrangement of pages per signature.
+
+
+**Prototypes and experiments using the M5Stack controllers. The expectation is that these will drop into the python viewport of UIFlow 2.0. **
 
 Cardputer 1.1
 -------------
